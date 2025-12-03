@@ -59,7 +59,7 @@ Figma · Jira · Tuleap · Notion
 
 ## 🔗 Liens
 
-[![guns.lol](https://img.shields.io/badge/guns.lol-%23FF3F3F.svg?style=for-the-badge\&logo=gun\&logoColor=white)](https://guns.lol/tenshi5)
+[![guns.lol](https://guns.lol/tenshi5)](https://guns.lol/tenshi5)
 
 ### 🟦 Discord
 
