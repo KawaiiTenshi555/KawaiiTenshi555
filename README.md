@@ -1,16 +1,90 @@
-## Hi there 👋
+# 👋 Bienvenue sur mon GitHub
 
-<!--
-**KawaiiTenshi555/KawaiiTenshi555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://capsule-render.vercel.app/api?type=waving\&height=180\&color=gradient\&customColorList=24\&text=KawaiiTenshi555%20%7C%20Cyberpunk%20DevOps\&fontAlignY=35\&fontColor=ffffff)
 
-Here are some ideas to get you started:
+## 🌙 Chardon Téophile — Étudiant en Master | DevOps • DevWeb
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎓 Dernière année de Master à **Epitech Rennes**
+💼 Alternant DevOps / Ops chez **Capgemini** (C&CA — DGA MI)
+
+> *Étudiant passionné par l'automatisation, l’esthétique neon/cyberpunk et les environnements complexes.*
+
+---
+
+## 🔥 À propos de moi
+
+* 🎓 En dernière année de Master à **Epitech Rennes**
+* 🛠️ Alternant DevOps/Ops chez **Capgemini**
+* 💤 Moins actif sur GitHub ces derniers temps : j’ai privilégié des GitLab self‑hosted
+* 🧪 Mes projets persos sont en pause à cause de l’alternance
+
+---
+
+## 🛠️ Technologies & Outils
+
+### 🌐 Frontend
+
+React · TailwindCSS
+
+### 🏗️ Backend
+
+Laravel
+
+### ⚙️ DevOps / DevSecOps
+
+Ansible · Terraform · GitLab · GitHub · AAP
+
+### 🧰 Outils
+
+Figma · Jira · Tuleap · Notion
+
+### 🖥️ Systèmes
+
+* **Linux** : RedHat · Ubuntu · CentOS
+* **Windows** : User / Server
+* **macOS**
+
+### 📛 Badges (à venir en mode neon/cyberpunk)
+
+---
+
+## 📊 Statistiques GitHub
+
+> *Même si les stats sont basses, elles racontent une histoire — et le chemin compte autant que le résultat.*
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KawaiiTenshi555\&show_icons=true\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KawaiiTenshi555\&layout=compact\&theme=tokyonight)
+
+---
+
+## 🔗 Liens
+
+[![guns.lol](https://img.shields.io/badge/guns.lol-%23FF3F3F.svg?style=for-the-badge\&logo=gun\&logoColor=white)](https://guns.lol/tenshi5)
+
+### 🟦 Discord
+
+`__wiseman__`
+
+### 🔗 LinkedIn
+
+[https://www.linkedin.com/in/t%C3%A9ophile-chardon-90a69b27b/](https://www.linkedin.com/in/t%C3%A9ophile-chardon-90a69b27b/)
+
+---
+
+## 🎮 Mes Passions
+
+* 🌸 Esthétique anime & univers japonais
+* 🌃 Neon, cyberpunk & ambiance tokyonight
+* 🧪 Automatisation DevOps
+* 🔐 DevSecOps
+* 🎮 Gaming & univers stylisés
+
+---
+
+## ✉️ Contact
+
+* Email : [teophile.chardon.pro@gmail.com](mailto:teophile.chardon.pro@gmail.com)
+* LinkedIn : [https://www.linkedin.com/in/t%C3%A9ophile-chardon-90a69b27b/](https://www.linkedin.com/in/t%C3%A9ophile-chardon-90a69b27b/)
+
+---
+
