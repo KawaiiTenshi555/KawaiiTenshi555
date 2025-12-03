@@ -1,7 +1,5 @@
 # 👋 Bienvenue sur mon GitHub
 
-![banner](https://capsule-render.vercel.app/api?type=waving\&height=180\&color=gradient\&customColorList=24\&text=KawaiiTenshi555%20%7C%20Cyberpunk%20DevOps\&fontAlignY=35\&fontColor=ffffff)
-
 ## 🌙 Chardon Téophile — Étudiant en Master | DevOps • DevWeb
 
 🎓 Dernière année de Master à **Epitech Rennes**
