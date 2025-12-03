@@ -7,7 +7,7 @@
 🎓 Dernière année de Master à **Epitech Rennes**
 💼 Alternant DevOps / Ops chez **Capgemini** (C&CA — DGA MI)
 
-> *Étudiant passionné par l'automatisation, l’esthétique neon/cyberpunk et les environnements complexes.*
+> *Étudiant passionné par l'automatisation et les environnements complexes.*
 
 ---
 
